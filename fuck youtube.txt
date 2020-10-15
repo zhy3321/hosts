@@ -1,4 +1,4 @@
-# adbyby plus or adguard home 过滤youtube广告规则
+# adbyby plus or adguard home 过滤youtube广告规则 
 @@||jd.com^important
 @@||flyme.cn^$important
 @@||meizu.com^$important
